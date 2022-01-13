@@ -2,6 +2,11 @@
 
 [![JeniferBlandonAranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeniferBlandonAranda)](https://github.com/anuraghazra/github-readme-stats)
 
+#Sobre mí
+✨ Actualmente estoy estudiando Ingenieria en Sistemas en la Universidad EAN y haciendo el curso de Certified Tech Developer dictado por Digital House diseñada por Mercado Libre y Globant.
+💜 Tengo 24 años.
+<!-- 🌻 Revisa mi currículum -->
+
 
 
 <!--
