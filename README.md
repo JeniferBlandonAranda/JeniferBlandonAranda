@@ -1,7 +1,7 @@
 ### Hola, Soy Jen 👋
 
-[![JeniferBlandonAranda's GitHub stats]
-(https://camo.githubusercontent.com/76d85f5bd16b16b20a74c72589d6bf4ba1e86953f217f296a1eed536ff76ef49/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d76616c76612d726f2673686f775f69636f6e733d74727565267468656d653d6d69646e696768742d707572706c65)
+[![JeniferBlandonAranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeniferBlandonAranda)](https://github.com/anuraghazra/github-readme-stats)![image](https://user-images.githubusercontent.com/81455607/149403344-d9929029-893c-4688-aa2c-a31a5a88b41e.png)
+
 
 # Sobre mí
 - ✨ Actualmente estoy estudiando Ingenieria en Sistemas en la Universidad EAN y haciendo el curso de Certified Tech Developer dictado por Digital House diseñada por Mercado Libre y Globant.
