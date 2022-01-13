@@ -11,6 +11,7 @@
 # Lenguajes de programacion y herramientas 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) 
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 
 
