@@ -9,6 +9,8 @@
 <!-- - 🌻 Revisa mi currículum -->
 
 # Lenguajes de programacion y herramientas 
-![html](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) 
 
 
