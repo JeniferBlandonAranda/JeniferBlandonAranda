@@ -13,7 +13,7 @@
 
 #Redes sociales 
 
- <p> <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.linkedin.com/in/jenifer-bland%C3%B3n-85850013a/" /> &nbsp; &nbsp;
- </a></p>
+ <p>  <a href="https://www.linkedin.com/in/jenifer-bland%C3%B3n-85850013a/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a> </p>
 
