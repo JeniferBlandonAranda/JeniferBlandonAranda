@@ -4,12 +4,16 @@
 
 
 # Sobre mí
-- ✨ Actualmente estoy estudiando Ingenieria en Sistemas en la Universidad EAN y haciendo el curso de Certified Tech Developer dictado por Digital House diseñada por Mercado Libre y Globant.
+- ✨ Actualmente estoy estudiando Ingenieria en Sistemas en la Universidad EAN y haciendo el curso de Certified Tech Developer dictado por Digital House y diseñada por Mercado Libre y Globant.
 - 💜 Tengo 24 años.
 <!-- - 🌻 Revisa mi currículum -->
 
 # Lenguajes y herramientas 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 
+#Redes sociales 
 
+ <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.linkedin.com/in/jenifer-bland%C3%B3n-85850013a/" /> &nbsp; &nbsp;
+ </a>
 
