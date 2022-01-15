@@ -9,7 +9,7 @@
 - 🎮  Me gustan los videojuegos.
 - 🎨  Amo pintar en acuarela
 - 🔅  Mi banda favorita es Coldplay
-<!-- - 🌻 Revisa mi currículum -->
+- 🌻 *[Revisa mi currículum](https://drive.google.com/file/d/1FeFsv2kb4FKzY3fce2UyxJ6TRwOqnYaR/view?usp=sharing)
 
 ## Lenguajes y herramientas 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
