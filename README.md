@@ -5,7 +5,10 @@
 
 ## Sobre mí
 - ✨ Actualmente estoy estudiando Ingenieria en Sistemas en la Universidad EAN y haciendo el curso de Certified Tech Developer dictado por Digital House y diseñada por Mercado Libre y Globant.
-- 💜 Tengo 24 años.
+- 💜  Tengo 24 años.
+- 🎮  Me gustan los videojuegos.
+- 🎨  Amo pintar en acuarela
+- 🔅  Mi banda favorita es Coldplay
 <!-- - 🌻 Revisa mi currículum -->
 
 ## Lenguajes y herramientas 
