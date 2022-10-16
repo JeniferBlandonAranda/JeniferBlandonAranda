@@ -9,9 +9,9 @@
 - 🎮  Me gustan los videojuegos uno de mi favorito es Brawl Stars 
 - 🎨  Amo pintar en acuarela
 - 🔅  Mis bandas favoritas son Coldplay, tame imapala y Capital Cities 
-- 🎧[Cancion que no puedo parar de escuchar](https://www.youtube.com/watch?v=47dtFZ8CFo8)
+- 🎧 [Canción que no puedo parar de escuchar](https://www.youtube.com/watch?v=47dtFZ8CFo8)
 - 🍝 Mis comidas favoritas son la Pasta y el sushi
-- 💕 Amo el cafe y los animales 
+- 💕 Amo el café y los animales 
 - 🌻 [Revisa mi currículum](https://drive.google.com/file/d/1fOIfnI4Ej1t09FPgc7DijwuAzhWBZTJU/view?usp=sharing)
 
 ## Lenguajes y herramientas 
