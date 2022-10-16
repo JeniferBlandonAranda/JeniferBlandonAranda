@@ -8,7 +8,7 @@
 - 💜  Tengo 25 años.
 - 🎮  Me gustan los videojuegos uno de mi favorito es Brawl Stars 
 - 🎨  Amo pintar en acuarela
-- 🔅  Mis bandas favoritas son Coldplay, tame imapala y Capital Cities 
+- 🔅  Mis bandas favoritas son Coldplay, Tame imapala y Capital Cities 
 - 🎧 [Canción que no puedo parar de escuchar](https://www.youtube.com/watch?v=47dtFZ8CFo8)
 - 🍝 Mis comidas favoritas son la Pasta y el sushi
 - 💕 Amo el café y los animales 
