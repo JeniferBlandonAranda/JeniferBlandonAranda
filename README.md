@@ -4,11 +4,14 @@
 
 
 ## Sobre mí
-- ✨ Actualmente estoy estudiando Ingenieria en Sistemas en la Universidad EAN y haciendo el curso de Certified Tech Developer dictado por Digital House y diseñada por Mercado Libre y Globant.
+- ✨ Actualmente estoy estudiando Ingeniería en Sistemas en la Universidad EAN y graduada como Professional Developer de la carrera Certified Tech Developer dictado por Digital House en convenio con Mercado Libre y Globant.
 - 💜  Tengo 25 años.
-- 🎮  Me gustan los videojuegos.
+- 🎮  Me gustan los videojuegos uno de mi favorito es Brawl Stars 
 - 🎨  Amo pintar en acuarela
-- 🔅  Mi banda favorita es Coldplay
+- 🔅  Mis bandas favoritas son Coldplay, tame imapala y Capital Cities 
+- 🎧[Cancion que no puedo parar de escuchar](https://www.youtube.com/watch?v=47dtFZ8CFo8)
+- 🍝 Mis comidas favoritas son la Pasta y el sushi
+- 💕 Amo el cafe y los animales 
 - 🌻 [Revisa mi currículum](https://drive.google.com/file/d/1fOIfnI4Ej1t09FPgc7DijwuAzhWBZTJU/view?usp=sharing)
 
 ## Lenguajes y herramientas 
